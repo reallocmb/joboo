@@ -65,6 +65,8 @@ remove:
 	sudo rm $(install_dir)/$(program)
 
 test:
+	gcc tests/main_test.c obj/crypt.o -lunicki
+	./a.out
 
 print:
 	@echo source: $(source)

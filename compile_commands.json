@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/crypt.o",
+      "src/crypt.c"
+    ],
+    "directory": "/home/mb/ws/c/joboo",
+    "file": "/home/mb/ws/c/joboo/src/crypt.c",
+    "output": "/home/mb/ws/c/joboo/obj/crypt.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-g",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/mb/ws/c/joboo",
+    "file": "/home/mb/ws/c/joboo/src/main.c",
+    "output": "/home/mb/ws/c/joboo/obj/main.o"
+  }
+]
